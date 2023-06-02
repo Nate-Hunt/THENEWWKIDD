@@ -3,7 +3,7 @@
 ## Senior Computer Science student at the Unversity of Houston
 
 ### Who I Am
-#### I am aAnaturally curious student in everything that I do. I love learning about new technologies and tools in Computer Science and Cybersecurity that I can tinker with and build upon. I am a more hands-on person so I enjoy jumping into new things and getting my hands dirty! I look forward to what my future holds and hope that you can be a part of that, in one way or another!
+#### I am a naturally curious student in everything that I do. I love learning about new technologies and tools in Computer Science and Cybersecurity that I can tinker with and build upon. I am a more hands-on person so I enjoy jumping into new things and getting my hands dirty! I look forward to what my future holds and hope that you can be a part of that, in one way or another!
 
 ### My Current Roles
 #### 1. Dicrector of Information Security for <a href="https://cougarcs.com/">CougarCS</a> <img src="https://drive.google.com/uc?export=view&id=1MWGdmDQS7QuxeWGcInaMmqqAtGkOolIu" width = 25px height = 25px></img>
