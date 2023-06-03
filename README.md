@@ -1,6 +1,6 @@
 # Thanks for visiting, I'm Nathan Hunt!
 
-## Senior Computer Science student at the Unversity of Houston
+## Senior Computer Science Student at the Unversity of Houston
 
 ### Who I Am
 #### I am a naturally curious student in everything that I do. I love learning about new technologies and tools in Computer Science and Cybersecurity that I can tinker with and build upon. I am a more hands-on person so I enjoy jumping into new things and getting my hands dirty! I look forward to what my future holds and hope that you can be a part of that, in one way or another!
