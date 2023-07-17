@@ -11,8 +11,8 @@
 
 ### Current Skills (Proficiency)
 #### 1. Linux
-#### 2. C++
-#### 3. Python
+#### 2. Python
+#### 3. C++
 #### 4. HTML/CSS
 #### 5. MySQL
 
